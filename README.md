@@ -1,2 +1,2 @@
-# yagshy ashyrov portfolio site 
+# yagshy ashyrov
 This is my public portfolio site
